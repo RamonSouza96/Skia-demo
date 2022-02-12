@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/30 09:56:28.000.324,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 11:48:44.000.687,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 22:40:13.000.402,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 21:44:10.000.967,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/19 14:11:11.000.477,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/25 17:53:07.000.008,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/26 15:30:03.000.802,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/26 15:30:21.000.140,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/26 15:31:40.000.282,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/26 15:31:51.000.365,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 15:51:06.000.161,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 15:53:12.000.047,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 15:53:24.000.242,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 15:54:04.000.739,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/26 10:16:39.000.830,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/26 10:17:09.000.144,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/26 10:17:26.000.970,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/26 20:41:23.000.618,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/11 18:39:56.000.086,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/11 18:45:07.000.415,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 09:26:31.000.611,=D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 11:09:22.000.178,D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=E:\BackupPC\Projetos\PROJETOS\FMX\Skia Project YouTube\uMain.fmx</Transaction>
+    <Transaction>2022/02/12 11:09:22.000.178,D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\BackupPC\Projetos\PROJETOS\FMX\Skia Project YouTube\uMain.pas</Transaction>
+    <Transaction>2022/02/12 11:09:39.000.480,D:\Users\T-Gamer\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\BackupPC\Projetos\PROJETOS\FMX\Skia Project YouTube\SkiaDemo.dproj</Transaction>
+    <Transaction>2022/02/12 11:54:44.848,=C:\PROJETOS\FMX\Skia Project YouTube\Android.SystemBars.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="ZF52352C7D" Android64="ZF52352C7D"/>
+	</ActiveMobileDevice>
+</BorlandProject>
